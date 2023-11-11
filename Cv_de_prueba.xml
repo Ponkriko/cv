@@ -1,0 +1,26 @@
+<curriculum>
+    <informacion_contacto>
+            <correo>oziel.esponky321@gmail.com</correo>
+            <telefono>(+52) 8182 0238 73</telefono>
+            <direccion>Potrero Redondo, Monterrey, Nuevo Léon, México</direccion>
+    </informacion_contacto>
+
+    <habilidades>
+        <habilidad>Programacion en python</habilidad>
+        <habilidad>Programacion en c++ y c</habilidad>
+        <habilidad>Programacion en java y javascrip</habilidad>
+        <habilidad>Comunicacíon efectiva</habilidad>
+        <habilidad>Resolucíon de problemas</habilidad>
+    </habilidades>
+
+    <educacion>
+        <grado>
+            <nombre>6to semeste</nombre>
+            <institucion>UANL en Facultad de Ingenieria Mecanica Electrica</institucion>
+            <ubicacion>Monterrey, Nuevo Leon, Mexico</ubicacion>
+        </grado>
+    </educacion>
+    <enlace_curriculum>
+        <url>https://Programacion_web/1930801_curriculum.pdf</url>
+    </enlace_curriculum>
+</curriculum>
